@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2024-02-16T01:27:22.464Z",
+    "action": "fileOpened",
+    "details": {
+      "fileName": "/Users/yukino/Documents/course/csc111/code_tracer/tests/hw3.py"
+    },
+    "topic": "vscodeUserActivity"
+  },
+  {
+    "timestamp": "2024-02-16T01:27:52.762Z",
+    "action": "fileOpened",
+    "details": {
+      "fileName": "extension-output-formulahendry.code-runner-#1-Code"
+    },
+    "topic": "vscodeUserActivity"
+  }
+]
